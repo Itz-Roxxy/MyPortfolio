@@ -25,13 +25,19 @@ regullar updates about what I built, broke, and learned.
 | May 16, 2026 | Failed my first Olympiad but learned what matters |
 
 
+## 🛠️ Tools I'm Learning
+- **Arduino** (C++) — for controlling motors, sensors, LEDs
+- **Raspberry Pi** (Python) — for more complex robotics
+- **Tinkercad Circuits** — for simulation before real hardware
+- **Basic electronics** — resistors, motors, sensors, breadboards
+
+
 ## 🏆 Achievements So Far
 - 🥉 National Cyber Security Olympiad 2026 — Participant
 - 📜 Harvard CS50 (in progress)
 - 🔧 Built: [nothing yet]
 
 ## 📺 Connect
-- [YouTube](your-link) — Tech content
 - [GitHub](you're here)
 
 ## 🎯 Goals for 2026-2027
