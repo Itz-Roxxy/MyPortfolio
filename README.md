@@ -15,7 +15,6 @@ nothing yet
 
 - National Cyber Security Olympiad 2026 — Participant
 - Learning: Python scripts, basic crypto, how shells work
-- [Logs here](/journey-logs)
 
 ## 📝 Journey Logs
 regullar updates about what I built, broke, and learned.
